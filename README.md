@@ -1,4 +1,4 @@
-# Data Roles Salary Prediction: Project Overview:
+# Data Roles Salary Prediction: Project Overview
 
 * Developed a model that estimates data roles(data scientists, data analysts, data engineers, ml engineer) salaries (MAE ~ $ 18K) to help them better negotiate their salary when they apply for a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
